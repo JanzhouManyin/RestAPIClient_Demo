@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\CsharpRestClient\CsharpRestClient\bin\Debug\CsharpRestClient.exe.config
+C:\Users\Administrator\source\repos\CsharpRestClient\CsharpRestClient\bin\Debug\CsharpRestClient.exe
+C:\Users\Administrator\source\repos\CsharpRestClient\CsharpRestClient\bin\Debug\CsharpRestClient.pdb
+C:\Users\Administrator\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\CsharpRestClient.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\CsharpRestClient.Form1.resources
+C:\Users\Administrator\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\CsharpRestClient.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\CsharpRestClient.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\CsharpRestClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\CsharpRestClient.exe
+C:\Users\Administrator\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\CsharpRestClient.pdb
